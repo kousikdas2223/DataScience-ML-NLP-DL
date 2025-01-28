@@ -1,0 +1,41 @@
+Product ID,Sales Location,Seller Category,Quantity Sold,Sale Price,Item Price,Total Revenue,Date of Sale,Seller Name,Company Name
+001,New York,Online,150,20,15,3000,2025-01-01,John Doe,TechHub Inc.
+002,Los Angeles,In-Store,100,150,130,15000,2025-01-02,Jane Smith,ElectroWorld LLC
+003,Chicago,Online,80,120,110,9600,2025-01-02,David Brown,OfficeSpace Co.
+004,New York,Online,120,35,30,4200,2025-01-03,Mary Johnson,HomeComfort Ltd.
+005,San Francisco,In-Store,200,350,300,70000,2025-01-04,Chris Lee,TechHub Inc.
+006,Los Angeles,Online,180,350,300,63000,2025-01-05,Patricia Kim,ElectroWorld LLC
+007,New York,Online,150,250,200,37500,2025-01-06,John Doe,TechHub Inc.
+008,Chicago,In-Store,130,250,220,32500,2025-01-07,Emily Clark,SmartTech LLC
+009,Los Angeles,Online,90,160,140,14400,2025-01-08,Michael Scott,OfficeSpace Co.
+010,Chicago,In-Store,75,220,200,16500,2025-01-09,Susan Harris,OfficeSpace Co.
+011,San Francisco,Online,140,40,35,5600,2025-01-10,Robert Adams,TechHub Inc.
+012,New York,In-Store,110,20,15,2200,2025-01-11,John Doe,TechHub Inc.
+013,Los Angeles,Online,60,130,120,7800,2025-01-12,Mary Johnson,HomeComfort Ltd.
+014,San Francisco,Online,100,30,25,3000,2025-01-13,David Brown,OfficeSpace Co.
+015,Chicago,In-Store,150,350,300,52500,2025-01-14,Patricia Kim,ElectroWorld LLC
+016,Los Angeles,Online,90,160,140,14400,2025-01-15,Susan Harris,OfficeSpace Co.
+017,San Francisco,Online,200,350,300,70000,2025-01-16,Chris Lee,TechHub Inc.
+018,Chicago,In-Store,100,250,220,25000,2025-01-17,Emily Clark,SmartTech LLC
+019,New York,In-Store,130,40,35,5200,2025-01-18,Robert Adams,TechHub Inc.
+020,San Francisco,In-Store,85,180,160,15300,2025-01-19,Mary Johnson,HomeComfort Ltd.
+021,Chicago,Online,160,20,15,3200,2025-01-20,John Doe,TechHub Inc.
+022,Los Angeles,Online,190,350,300,66500,2025-01-21,Patricia Kim,ElectroWorld LLC
+023,San Francisco,In-Store,70,220,200,15400,2025-01-22,Susan Harris,OfficeSpace Co.
+024,San Francisco,In-Store,120,250,220,30000,2025-01-23,Chris Lee,TechHub Inc.
+025,New York,Online,110,160,140,17600,2025-01-24,Emily Clark,SmartTech LLC
+026,Chicago,In-Store,90,35,30,3150,2025-01-25,David Brown,OfficeSpace Co.
+027,New York,Online,100,160,140,16000,2025-01-26,Mary Johnson,HomeComfort Ltd.
+028,Chicago,Online,210,350,300,73500,2025-01-27,Chris Lee,TechHub Inc.
+029,Los Angeles,In-Store,140,250,220,35000,2025-01-28,Robert Adams,TechHub Inc.
+030,San Francisco,In-Store,120,40,35,4800,2025-01-29,Susan Harris,OfficeSpace Co.
+031,San Francisco,Online,100,20,15,2000,2025-01-30,John Doe,TechHub Inc.
+032,Los Angeles,In-Store,150,350,300,52500,2025-01-31,Patricia Kim,ElectroWorld LLC
+033,Chicago,Online,130,250,220,32500,2025-02-01,Emily Clark,SmartTech LLC
+034,Los Angeles,In-Store,80,160,140,12800,2025-02-02,Mary Johnson,HomeComfort Ltd.
+035,San Francisco,Online,60,220,200,13200,2025-02-03,Susan Harris,OfficeSpace Co.
+036,Los Angeles,Online,110,35,30,3850,2025-02-04,David Brown,OfficeSpace Co.
+037,New York,Online,180,350,300,63000,2025-02-05,Chris Lee,TechHub Inc.
+038,San Francisco,In-Store,90,160,140,14400,2025-02-06,Robert Adams,TechHub Inc.
+039,Chicago,Online,70,130,120,9100,2025-02-07,Mary Johnson,HomeComfort Ltd.
+040,New York,In-Store,110,250,220,27500,2025-02-08,Chris Lee,TechHub Inc.

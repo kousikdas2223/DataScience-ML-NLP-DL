@@ -3,3 +3,8 @@ pandas
 ipykernel
 numpy
 matplotlib
+lxml
+beautifulsoup4
+html5lib
+openpyxl
+seaborn

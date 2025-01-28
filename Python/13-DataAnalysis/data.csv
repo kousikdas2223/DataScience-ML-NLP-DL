@@ -1,0 +1,11 @@
+Name,Age,SIN,DOB,Address1,Address2,City,State,Zip,Country
+John Doe,34,123-456-789,1989-06-15,123 Maple St, Apt 4B, Springfield, IL,62701,USA
+Jane Smith,29,987-654-321,1995-03-22,456 Oak Rd, Suite 2, Rivertown, TX,75001,USA
+Alice Johnson,41,321-654-987,1982-11-08,789 Pine Ave,,Lakeside, FL,32123,USA
+Bob Brown,56,654-987-321,1968-02-14,101 Birch Ln, Unit 12, Greenfield, OH,43123,USA
+Charlie Green,27,111-222-333,1997-07-30,202 Cedar Blvd,,Metro City, NY,10001,USA
+David Lee,38,222-333-444,1985-08-10,100 Elm St, Apt 3A, Metropolis, NY,12345,USA
+Emma Watson,25,555-666-777,1998-12-05,350 Pine Ln,,Sunset City, CA,90001,USA
+Michael Turner,43,888-999-000,1980-01-20,500 Oak Dr, Unit 8, Highland Park, TX,75023,USA
+Olivia Davis,30,111-222-444,1993-07-25,850 Birch St, Suite 5, Riverdale, NJ,07001,USA
+Lucas White,50,777-888-999,1974-04-14,120 Maple Ave,,Old Town, FL,33123,USA
