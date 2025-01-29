@@ -8,3 +8,5 @@ beautifulsoup4
 html5lib
 openpyxl
 seaborn
+beautifulsoup4
+flask
