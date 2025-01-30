@@ -10,3 +10,5 @@ openpyxl
 seaborn
 beautifulsoup4
 flask
+memory-profiler
+streamlit
